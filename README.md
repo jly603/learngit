@@ -1,6 +1,15 @@
+<<<<<<< .mine
 LispGentleIntro
 ===============
 
-Lisp-ç¬¦å·è®¡ç®—å…¥é—¨æŒ‡å¼•ç¿»è¯‘
+Lisp-·ûºÅ¼ÆËãÈëÃÅÖ¸Òý·­Òë
 
-<a href="http://cncounter.duapp.com/">å¤©æœè®¡æ•°å™¨</a>
+<a href="http://cncounter.duapp.com/">Ìì³¯¼ÆÊýÆ÷</a>
+=======
+
+
+
+
+
+
+>>>>>>> .theirs
